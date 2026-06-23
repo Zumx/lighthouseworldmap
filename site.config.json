@@ -2,7 +2,7 @@
   "name": "Lighthouse World Map",
   "slug": "lighthouseworldmap",
   "emoji": "🗼",
-  "domain": "lighthouseworldmap.com",
+  "domain": "lighthouseworldmap.vercel.app",
   "contactEmail": "hello@lighthouseworldmap.com",
   "colors": {
     "primary": "#5f5b54",
