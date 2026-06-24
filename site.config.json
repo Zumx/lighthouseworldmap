@@ -27,7 +27,10 @@
   "affiliateUrl": "https://www.getyourguide.com/s/?q={q}",
   "ctaType": "tour",
   "metaFields": [],
-  "aboutText": null,
+  "aboutText": [
+    "Lighthouse World Map marks the lighthouses of the world's coasts — working navigation lights, decommissioned towers turned museums, and lonely beacons on far headlands and reefs.",
+    "Each lighthouse is sourced from OpenStreetMap's `man_made=lighthouse` tag and kept current by mappers and lighthouse enthusiasts. Many sit on private or protected land, so check access before setting out to one."
+  ],
   "locales": [
     "en",
     "de",
