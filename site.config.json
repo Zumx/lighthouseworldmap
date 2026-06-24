@@ -4,6 +4,7 @@
   "emoji": "🗼",
   "domain": "lighthouseworldmap.vercel.app",
   "contactEmail": "hello@lighthouseworldmap.com",
+  "ga4Id": null,
   "colors": {
     "primary": "#5f5b54",
     "accent": "#b8af9c"
